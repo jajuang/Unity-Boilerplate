@@ -1,2 +1,2 @@
 # unity-boilerplate
-boilerplate project for unity
+boilerplate project for unity.
